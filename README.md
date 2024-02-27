@@ -28,7 +28,14 @@ eg:Num = x; <br>
 4. Identifier can be of any length.<br><br>
  <b>Data Types :</b><br>
 
- Integers, String, Float, Boolean, None
+ Integers, String, Float, Boolean, None<br><br>
+ 
 
+# Day-3
+
+<b>KeyWords</b><br>
+Keywords are reserved words in python. Some keywords are :<br> and, as, else, True, False, return, break, import, except, is, lambda, assert, class, continue, def, del, elif, finally, for, from, global, if, in, nonlocal, None, not, or, pass, raise, return, True, try, with, while, yield. <br> We cannot declare a variable name using keywords. <br>
+
+<b>Punctuators: </b>Punctuators are Symbols to organize sentence structure in programming. For eg: (), {}, @,[], #, etc. <br><br>
 
 
