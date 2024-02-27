@@ -41,3 +41,5 @@ Keywords are reserved words in python. Some keywords are :<br> and, as, else, Tr
 <b>Expression Execution:</b><br>
 1. Strings & Numeric values can operate together with *.
 2. String & string can operate with +.
+3. Numeric values can operate with all arithmetic operators.
+4. Arithmetic expression with integer and float will result in float.
