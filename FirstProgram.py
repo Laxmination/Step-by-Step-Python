@@ -13,6 +13,7 @@ print(type(num))
 print(type(Name1))
 
 #Day-3
+#Expression Execution
 a1= 2
 a2= 3
 txt ="@"
@@ -29,4 +30,5 @@ number4= 30.00
 print(number1 *number2 +number3) #numeric values can operate with a;; arithmetic operators
 print(number3 +number4) #arithmetic expression with integer and float will result in float
 print(number1/ number2)
-print(number3, number1/ number2)
+# print(number3, number1/ number2)
+

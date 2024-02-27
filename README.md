@@ -45,3 +45,4 @@ Keywords are reserved words in python. Some keywords are :<br> and, as, else, Tr
 4. Arithmetic expression with integer and float will result in float.
 5. Result of division operator with two integers will be float.
 6. Integer division with float and int will give int displayed as float.
+7. Floor gives closest integer, which is lesser than or equal to the float value. 
