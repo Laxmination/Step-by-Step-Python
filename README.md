@@ -16,8 +16,8 @@ How to setup technologies in Computer for Python
 
 <b>Variables and dataTypes in Python</b><br>
 A variable is a name given to a memory location in a program
-eg: int Num = x; <br>
-=> int -> DataType, Num-> variable, x-> value stored under the variable "Num" <br><br>
+eg:Num = x; <br>
+=> DataType-> int, variable-> Num, x-> value stored under the variable "Num" <br><br>
 
 # Day-2
 
@@ -26,7 +26,8 @@ eg: int Num = x; <br>
 2. An Identifier can't start with digit i.e. 1variable is not valid and variable1 is valid.
 3. We can't use special symboles like !, #, @, %, etc in identifier.
 4. Identifier can be of any length.<br>
- <b>Data Types</b>
+ <b>Data Types :</b><br>
+
  Integers, String, Float, Boolean, None
 
 
