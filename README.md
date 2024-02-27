@@ -14,9 +14,20 @@ How to setup technologies in Computer for Python
 4. WhiteSpaces: BlankSpace, Tab, carrage return, newline, formfeed.
 5. Other Characters: Python can process all ASCII and Unicode characters as part of data or literals.<br> <br>
 
-<b>Variables and dataTypes in Python<b><br>
+<b>Variables and dataTypes in Python</b><br>
+A variable is a name given to a memory location in a program
 eg: int Num = x; <br>
-=> int -> DataType, Num-> variable, x-> value stored under the variable "Num"
+=> int -> DataType, Num-> variable, x-> value stored under the variable "Num" <br><br>
+
+# Day-2
+
+<b>Rules for identifiers</b><br>
+1. Identifiers for variavle can be combination of uppercase and lowercase letters, digits or an underscore(_). So MYVariable, variable_1, Variable_for_print all are valid python identifiers.
+2. An Identifier can't start with digit i.e. 1variable is not valid and variable1 is valid.
+3. We can't use special symboles like !, #, @, %, etc in identifier.
+4. Identifier can be of any length.<br>
+ <b>Data Types</b>
+ Integers, String, Float, Boolean, None
 
 
 
