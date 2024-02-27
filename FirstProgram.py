@@ -13,4 +13,11 @@ print(type(num))
 print(type(Name1))
 
 #Day-3
+a1= 2
+a2= 3
+txt ="@"
+print(2 *txt *3) # Strings and Numeric values can operate together with *
  
+p1= "Laxmi "
+txt= "@"
+print((p1 +txt) *a1) #Strings and strings can operate with +
