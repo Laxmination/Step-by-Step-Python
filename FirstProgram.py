@@ -26,5 +26,7 @@ number1= 12
 number2= 13
 number3= 21
 number4= 30.00
-print(number1 *number2 +number3)
-print(number3 +number4)
+print(number1 *number2 +number3) #numeric values can operate with a;; arithmetic operators
+print(number3 +number4) #arithmetic expression with integer and float will result in float
+print(number1/ number2)
+print(number3, number1/ number2)

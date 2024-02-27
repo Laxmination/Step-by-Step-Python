@@ -43,3 +43,5 @@ Keywords are reserved words in python. Some keywords are :<br> and, as, else, Tr
 2. String & string can operate with +.
 3. Numeric values can operate with all arithmetic operators.
 4. Arithmetic expression with integer and float will result in float.
+5. Result of division operator with two integers will be float.
+6. Integer division with float and int will give int displayed as float.
