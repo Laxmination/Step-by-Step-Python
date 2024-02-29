@@ -1,4 +1,4 @@
-print("Hello, coders") # it prints and give output as it is in double quotes.
+print("Hello, coders") 
 print("Hello, Coders", "I am Laxmi Kathayat.")
 num= 20
 numb= 30
