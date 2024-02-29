@@ -15,4 +15,4 @@
 <b>Variables and dataTypes in Python</b><br>
 A variable is a name given to a memory location in a program
 eg:Num = x; <br>
-=> DataType-> int, variable-> Num, x-> value stored under the variable "Num" <br><br>
+=>DataType-> int, variable-> Num, x-> value stored under the variable "Num" <br><br>
