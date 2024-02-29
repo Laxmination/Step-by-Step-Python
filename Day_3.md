@@ -1,5 +1,3 @@
-# Day-3
-
 <b>KeyWords</b><br>
 Keywords are reserved words in python. Some keywords are :<br> and, as, else, True, False, return, break, import, except, is, lambda, assert, class, continue, def, del, elif, finally, for, from, global, if, in, nonlocal, None, not, or, pass, raise, return, True, try, with, while, yield. <br> We cannot declare a variable name using keywords. <br>
 
