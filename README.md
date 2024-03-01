@@ -18,3 +18,6 @@
 
 1. Input in Python
 2. Types of operators
+
+# DAY-5
+1. Conditional statuements
