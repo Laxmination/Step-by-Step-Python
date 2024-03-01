@@ -19,3 +19,8 @@ Eg:<br>
 food = input("Food: ")<br>
 eat = "Yes" if food == "Cake" else "No"<br>
 print(Eat)
+
+# Strings
+ String is data type that stores a sequence of characters.<br>
+ 1. concatenation: "Hello" + "World" -> "HelloWorld"<br>
+ 2. Lengt of string: len(str)
