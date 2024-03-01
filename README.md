@@ -20,4 +20,5 @@
 2. Types of operators
 
 # DAY-5
-1. Conditional statuements
+1. Conditional statements
+2. Strings
