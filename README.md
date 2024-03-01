@@ -17,3 +17,4 @@
 # Day-4
 
 1. Input in Python
+2. Types of operators
