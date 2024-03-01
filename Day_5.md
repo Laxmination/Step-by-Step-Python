@@ -9,4 +9,9 @@ elif(condition):
 <br>
 Statement2
 <br>
-else:statementN
+else:
+<br>
+statementN
+<br><br>
+<b>Single line If/ Ternary Operator</b><br>
+<var>=<val1>if<condition>else<val2>
