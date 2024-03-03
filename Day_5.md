@@ -24,3 +24,4 @@ print(Eat)
  String is data type that stores a sequence of characters.<br>
  1. concatenation: "Hello" + "World" -> "HelloWorld"<br>
  2. Lengt of string: len(str)
+ 3. Indexing:<br>str ="Laxmi_Kathayat" <br> str[0] is 'L', str[1] is 'a'....<br> 
