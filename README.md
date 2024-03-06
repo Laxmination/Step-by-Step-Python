@@ -25,3 +25,7 @@
 
 # Day-6 
 1. String Functions
+
+# Day-7
+1. Lists in Python
+2. List Slicing in Python
