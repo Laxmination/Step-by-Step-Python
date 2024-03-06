@@ -22,3 +22,6 @@
 # DAY-5
 1. Conditional statements
 2. Strings
+
+# Day-6 
+1. String Functions
