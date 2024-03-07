@@ -29,3 +29,8 @@
 # Day-7
 1. Lists in Python
 2. List Slicing in Python
+
+# Day-8
+1. List Methods
+2. Tuples in Python
+3. Tuple Methods
