@@ -2,4 +2,5 @@
 marks =("B", "A", "C", "B", "A", "D", "A", "E")
 print(marks)
 print(marks.count("A"))
+print(marks.index("A"))
 print(marks.index("E"))
