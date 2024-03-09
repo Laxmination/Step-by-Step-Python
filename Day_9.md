@@ -4,9 +4,9 @@
 2. They are unordered, mutable(changable) and don't allow duplicate keys<br>
  Eg:<br>
  dict = {<br>
-    "name" : "Laxmi", <br>
-    "cgpa" : 3.0, <br>
-    "marks" : [60, 70, 80], <br>
+   </t> "name" : "Laxmi", <br>
+  </t>  "cgpa" : 3.0, <br>
+   </t> "marks" : [60, 70, 80], <br>
  }<br><br>
 
  dict["name"], dict["cgpa"], dict["marks"]<br>
@@ -14,12 +14,12 @@ dict["key"] = "value" :- It assigns or adds new <br><br>
 <b>Nested Dictionaries</b><br>
 Eg:-<br>
 student = {<br>
-    "name" : "Shasi",<br>
-    "score" {<br>
-        "chem": 80,<br>
-        "phy": 84,<br>
-        "math": 95<br>
-    }<br>
+   </t> "name" : "Shasi",<br>
+    </t>"score" {<br>
+      </t></t>"chem": 80,<br>
+        </t></t>"phy": 84,<br>
+       </t></t> "math": 95<br>
+   </t> }<br>
 }<br><br>
 
 student["score"]["math"]
