@@ -34,3 +34,7 @@
 1. List Methods
 2. Tuples in Python
 3. Tuple Methods
+
+# Day-9
+1. Dictionary in Python
+2. Dictionary Methods
