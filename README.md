@@ -4,37 +4,30 @@
 2. Introduction to python
 3. Character Sets in python
 4. Variables and Data-types in Python 
+5. Rules for identifiers
+6. Data Types
+
 
 # Day-2
-1. Rules for Identifiers
-2. Data Types
-
-# Day-3
 1. KeyWords
 2. Punctuators
 3. EXpression Execution
+4. Input in Python
+5. Types of Operators
 
-# Day-4
 
-1. Input in Python
-2. Types of operators
-
-# DAY-5
+# DAY-3
 1. Conditional statements
 2. Strings
+3. String Methods
 
-# Day-6 
-1. String Functions
-
-# Day-7
+# Day-4
 1. Lists in Python
 2. List Slicing in Python
+3. List Methods
+4. Tuples in Python
+5. Tuple Methods
 
-# Day-8
-1. List Methods
-2. Tuples in Python
-3. Tuple Methods
-
-# Day-9
+# Day-5
 1. Dictionary in Python
 2. Dictionary Methods

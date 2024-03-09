@@ -1,10 +1,27 @@
-# Rules for identifiers
-Identifiers are the words that are used to declare the name of variables.
-1. Identifiers for variable can be combination of uppercase and lowercase letters, digits or an underscore(_). So MYVariable, variable_1, Variable_for_print all are valid python identifiers.
-2. An Identifier can't start with digit i.e. 1variable is not valid and variable1 is valid.
-3. We can't use special symboles like !, #, @, %, etc in identifier.
-4. Identifier can be of any length.
-# Data Types:
-The words that shows the type of data stored in variable are dataTypes.
- Integers, String, Float, Boolean, None<br><br>
- 
+# KeyWords
+Keywords are reserved words in python. Some keywords are :<br> and, as, else, True, False, return, break, import, except, is, lambda, assert, class, continue, def, del, elif, finally, for, from, global, if, in, nonlocal, None, not, or, pass, raise, return, True, try, with, while, yield. <br> We cannot declare a variable name using keywords. <br>
+
+# Punctuators: 
+Punctuators are Symbols to organize sentence structure in programming. For eg: (), {}, @,[], #, etc.
+
+# Expression Execution:
+1. Strings & Numeric values can operate together with *.
+2. String & string can operate with +.
+3. Numeric values can operate with all arithmetic operators.
+4. Arithmetic expression with integer and float will result in float.
+5. Result of division operator with two integers will be float.
+6. Integer division with float and int will give int displayed as float.
+7. Floor gives closest integer, which is lesser than or equal to the float value. 
+
+# Input in Python
+1. input() statement is used to accept values (using keyboard) from user
+2. We can input string, integer, character, float and so on.
+
+# Types of Operators
+1. Arithmetic operators (+, -, *, /, %, **)
+2. Relational / Comparison Operators (==, !=, >, <, <=, >=)
+3. Assignment Operators (=, -=, *=, %=, //=, **=)
+4. Logical Operators(not, and, or)
+5. Membership Operators(in, not in)
+6. Identity Operators(is, is not)
+7. Bitwise Operators(&, |, ^)

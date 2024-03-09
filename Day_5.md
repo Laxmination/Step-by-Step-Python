@@ -1,35 +1,33 @@
-# Conditional Statements
-if-elif-else (SYNTAX)
-<br><br>
-if(condition):
-<br>
-Statement1
-<br>
-elif(condition):
-<br>
-Statement2
-<br>
-else:
-<br>
-statementN
-<br><br>
-<b>Single line If/ Ternary Operator</b><br>
-var =val1 if  condition  else val2 <br>
-Eg:<br>
-food = input("Food: ")<br>
-eat = "Yes" if food == "Cake" else "No"<br>
-print(Eat)
+# Dictionary in Python
 
-# Strings
- String is data type that stores a sequence of characters.<br>
- 1. <b>concatenation:</b> "Hello" + "World" -> "HelloWorld"<br>
- 2. <b>Lengt of string:</b> len(str)
- 3. <b>Indexing:</b><br>str ="Laxmi_Kathayat" <br> str[0] is 'L', str[1] is 'a'....<br>
- str[0] = 'B'
- 4. <b>Slicing:</b> Accessing parts of a string.<br>
- str[starting_idx:ending_idx]<br>
- str ="LaxmiKathayat" <br>
- str[1:4] is "axm" <br>
- str[ :4] is same as str[0:4] <br>
- str[1: ] is same as str[1: len(str)]<br>
- str[-3:-1] is "ya"<br>
+1. Dictionaries are used to store data values in  <b>key: value</b> pairs
+2. They are unordered, mutable(changable) and don't allow duplicate keys<br>
+ Eg:<br>
+ dict = {<br>
+    "name" : "Laxmi", <br>
+    "cgpa" : 3.0, <br>
+    "marks" : [60, 70, 80], <br>
+ }<br><br>
+
+ dict["name"], dict["cgpa"], dict["marks"]<br>
+dict["key"] = "value" :- It assigns or adds new <br><br>
+<b>Nested Dictionaries</b><br>
+Eg:-<br>
+student = {<br>
+    "name" : "Shasi",<br>
+    "score" {<br>
+        "chem": 80,<br>
+        "phy": 84,<br>
+        "math": 95<br>
+    }<br>
+}<br><br>
+
+student["score"]["math"]
+
+# Dictionary Methods
+
+1. myDict.key() :- it returns all keys.
+2. myDict.values() :- It returns all values.
+3. myDict.items() :- It returns all (key, value) pairs as tuple.
+4. myDict.get("key") :-It returns the dkey according to value
+5. myDict.update(newDict) :-It inserts the specified items to the dictionary
