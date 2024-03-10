@@ -31,3 +31,20 @@ student["score"]["math"]
 3. myDict.items() :- It returns all (key, value) pairs as tuple.
 4. myDict.get("key") :-It returns the dkey according to value
 5. myDict.update(newDict) :-It inserts the specified items to the dictionary
+
+# Set in Python
+<b>Set is the collection of the unordered items.</b><br>
+<b>Each element in the set must be unique and immutable.</b><br>
+Eg:<br>
+nums ={1, 2, 3, 4}<br><br>
+set2 ={1, 2, 2, 2} :-Repeated elements stored only once, so it resolved to {1, 2}<br>
+null_set =set() :-Empty set syntax.<br>
+
+# Set Methods
+
+1. set.add(elementName):- It adds an element.
+2. set.remove(elementName):- It removes the element form set
+3. set.clear():- It empties the set
+4. set.pop():- It removes a random value
+5. set.union(set2):- It combines both set values and returns new.
+6. Set.intersection(set2):- It combines common values in sets and returns new.
