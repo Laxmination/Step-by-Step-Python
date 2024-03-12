@@ -33,3 +33,6 @@
 2. Dictionary Methods
 3. Set in Python
 4. Set Methods
+
+# Day-6
+1. Loops in Python
