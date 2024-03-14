@@ -36,3 +36,8 @@
 
 # Day-6
 1. Loops in Python
+2. Break and Continue
+3. Range()
+
+# Day-7
+1. Functions in Python
