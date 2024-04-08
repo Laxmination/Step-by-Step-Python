@@ -6,3 +6,4 @@ def fac(i):
 
 
 print(fac(6))
+print(fac(7))
