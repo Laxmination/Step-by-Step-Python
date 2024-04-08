@@ -42,3 +42,6 @@
 # Day-7
 1. Functions in Python
 2. Recursion
+
+# Day-8
+1. File I/O in Python
