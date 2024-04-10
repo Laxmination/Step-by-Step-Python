@@ -15,3 +15,4 @@ obj.attr
 
 To understand the meaning of classes we have to understand the built-in __ _init_ __() function.<br>
 All classes have a function called __ _init_ __(), which is always executed when the class is being initiated.<br>
+<i>The __ _init_ __() function is called automatically everytime the class is being used to create a new object.</i>
