@@ -46,8 +46,8 @@ with open("demo.txt", "a") as f: <br>
 data =f.read()
 
 ### Deleting a File
-<b>Using the OS module</b><br>
-<b>Module (like a code library) is file written by another programmer that generally has functions we can use.</b><br><br>
+Using the OS module<br>
+Module (like a code library) is file written by another programmer that generally has functions we can use.<br><br>
 
 import os<br>
 os.remove(fileName)
