@@ -16,6 +16,7 @@ print(x1.value) #value is an attribute here
 print(x1.position)
 
 class Student:
+    college = "Green Valley"
     def __init__(self, fullName, rollno):  # The self parameter is a reference to the current instance of the class, and is used to access variables that belongs to the class.
         self.name = fullName
         self.rollno = rollno
@@ -25,3 +26,8 @@ class Student:
 s1 =Student("Sai Pallavi", 10)
 print(s1.name)
 print(s1.rollno)
+print(s1.college)
+
+s2 =Student("Poonam", 9)
+print(s2.name, s2.rollno)
+print(s2.college)
