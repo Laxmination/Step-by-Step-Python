@@ -18,3 +18,7 @@ obj.attr
 To understand the meaning of classes we have to understand the built-in __ _init_ __() function.<br>
 All classes have a function called __ _init_ __(), which is always executed when the object is being initiated.<br>
 <i>The __ _init_ __() function is called automatically everytime the class is being used to create a new object.</i>
+
+### The self Parameter
+The self parameter is a reference to the current instance of the class, and is used to access variables that belongs to the class.<br>
+It does not have to be named self , you can call it whatever you like, but it has to be the first parameter of any function in the class.
