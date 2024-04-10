@@ -22,3 +22,12 @@ All classes have a function called __ _init_ __(), which is always executed when
 ### The self Parameter
 The self parameter is a reference to the current instance of the class, and is used to access variables that belongs to the class.<br>
 It does not have to be named self , you can call it whatever you like, but it has to be the first parameter of any function in the class.
+
+## Object Methods
+Objects can also contain methods. Methods in objects are functions that belong to the object.
+
+### The pass Statement
+class definitions cannot be empty, but if you for some reason have a class definition with no content, put in the pass statement to avoid getting an error.
+
+### Additional Note
+<i>We can modify properties on objects and we can also delete properties on objects.</i>
