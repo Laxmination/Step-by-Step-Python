@@ -14,3 +14,14 @@ class X: # X is class here
 x1 = X() # x1 is object here 
 print(x1.value) #value is an attribute here 
 print(x1.position)
+
+class Student:
+    def __init__(self, fullName, rollno):  # The self parameter is a reference to the current instance of the class, and is used to access variables that belongs to the class.
+        self.name = fullName
+        self.rollno = rollno
+        # print(self)
+        print("Database of class student")
+
+s1 =Student("Sai Pallavi", 10)
+print(s1.name)
+print(s1.rollno)
