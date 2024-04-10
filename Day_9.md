@@ -30,4 +30,4 @@ Objects can also contain methods. Methods in objects are functions that belong t
 class definitions cannot be empty, but if you for some reason have a class definition with no content, put in the pass statement to avoid getting an error.
 
 ### Additional Note
-<i>We can modify properties on objects and we can also delete properties on objects.</i>
+<i>We can modify properties on objects and we can also delete objects.</i>
