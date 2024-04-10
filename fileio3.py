@@ -13,7 +13,6 @@ with open("sample2.txt", "r") as f:
     #         numb +=data[i]
 
 
-
     numb = data.split(",")
     for val in numb:
         if(int(val) %2 ==0):
