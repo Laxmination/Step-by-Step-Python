@@ -22,3 +22,9 @@ class Account:
 acc1 =Account(100000, 9123456)
 acc1.debit(50000)
 acc1.credit(10000)
+
+
+acc2 =Account(100, 9123457)
+acc2.debit(100)
+del acc2
+print(acc2)
