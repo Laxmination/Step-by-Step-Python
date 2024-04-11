@@ -48,3 +48,8 @@ Wrapping data and functions into a single unit(object).
 <b>Conceptual Implementations in Python</b>
 Private attributes and methods are meant to be used only within the class and are not accessible from outside the class.
 
+# Inheritance
+Inheritance allows us to define a class that inherits all the methods and properties from class. i.e. when one class(child/derived) derives the properties and methods of another class(parent/base), then it is called inheritance.<br><br>
+<b>Parent class:</b> It is the base class from which other class are derived.<br>
+<b>Child class:</b> It is the derived class that inherits from another class i.e. inherits from parent class.<br>
+
