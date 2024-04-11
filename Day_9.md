@@ -36,3 +36,10 @@ class definitions cannot be empty, but if you for some reason have a class defin
 Method that don't use the self parameter(work at class level)<br>
 to create static method we use @staticmethod as decorator.<br>
 Decorators allow us to wrap another function in order to expand the behaviour of the wrapped function, without permanently modifying it.
+
+# Abstraction
+Hiding the implementation details of a class and only showing the essential features to the user.
+
+# Encapsulation
+Wrapping data and functions into a single unit(object).
+
