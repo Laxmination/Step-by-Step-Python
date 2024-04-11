@@ -62,7 +62,7 @@ Inheritance allows us to define a class that inherits all the methods and proper
 super() method is used to access methods of the parent class
 
 ## class method
-A class method is bond to the class and receives the class as an implicit first argument.<br><br>
+A class method is bond to the class and receives the class as an implicit first argument. We use @classmethod as a decorator in class method.<br><br>
 
 Note: static method cannot access or modify class state and generally for utility.
 
