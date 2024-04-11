@@ -66,3 +66,9 @@ A class method is bond to the class and receives the class as an implicit first 
 
 Note: static method cannot access or modify class state and generally for utility.
 
+### Property
+We use @property decorator on any method in the class to use the method as a property.
+
+## Polymorphism
+Polymorphism means many forms i.e. in Programming it refers to methods/functions/operators with the same name that can be executed on many objects or classes.<br><br>
+Operator overloading is an exam of polymorphism and we say operator overloading if the same operator is allowed to have different meaning according to the context.
