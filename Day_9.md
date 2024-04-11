@@ -31,3 +31,8 @@ class definitions cannot be empty, but if you for some reason have a class defin
 
 ### Additional Note
 <i>We can modify properties on objects and we can also delete objects.</i>
+
+## Static Method
+Method that don't use the self parameter(work at class level)<br>
+to create static method we use @staticmethod as decorator.<br>
+Decorators allow us to wrap another function in order to expand the behaviour of the wrapped function, without permanently modifying it.
