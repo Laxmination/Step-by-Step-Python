@@ -43,3 +43,8 @@ Hiding the implementation details of a class and only showing the essential feat
 # Encapsulation
 Wrapping data and functions into a single unit(object).
 
+
+## Private(like) attributes and methods
+<b>Conceptual Implementations in Python</b>
+Private attributes and methods are meant to be used only within the class and are not accessible from outside the class.
+
