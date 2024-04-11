@@ -15,9 +15,9 @@ class X: # X is class here
     value = 10
     position = "x-axis"
 
+
 x1 = X() # x1 is object here 
-print(x1.value) #value is an attribute here 
-print(x1.position)
+
 
 
 class Student:
@@ -27,11 +27,15 @@ class Student:
         self.rollno = rollno
         # print(self)
         print("Database of class student")
+    @staticmethod # Decorator
+    def grade(): # Static method
+        print("Class 10")
 
 s1 =Student("Sai Pallavi", 10)
 print(s1.name)
 print(s1.rollno)
 print(s1.college)
+s1.grade()
 
 s2 =Student("Poonam", 9)
 print(s2.name, s2.rollno)
