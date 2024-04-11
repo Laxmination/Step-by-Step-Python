@@ -53,3 +53,16 @@ Inheritance allows us to define a class that inherits all the methods and proper
 <b>Parent class:</b> It is the base class from which other class are derived.<br>
 <b>Child class:</b> It is the derived class that inherits from another class i.e. inherits from parent class.<br>
 
+### Types of Inheritance
+1. Single Inheritance
+2. Multi-level Inheritance
+3. Multiple Inheritance
+
+### Super method
+super() method is used to access methods of the parent class
+
+## class method
+A class method is bond to the class and receives the class as an implicit first argument.<br><br>
+
+Note: static method cannot access or modify class state and generally for utility.
+
