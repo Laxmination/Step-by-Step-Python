@@ -12,3 +12,8 @@ Syntex : pip install numpy  (on terminal)
 ### Import numpy
 
 Syntex : import numpy as np
+
+## Importance of NumPy
+1. Wide variety of mathematical operations on arrays.
+2. It supplies an enormous library of high-level mathematical functions that operate on these arrays and matrices.
+3. Mathematical, logical, shape manipulation, sorting, selecting, I/O, discrete fourier transforms, basic linear algebra, basic statical operations, random simulation and much more.
