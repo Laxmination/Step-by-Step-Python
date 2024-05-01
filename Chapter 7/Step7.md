@@ -6,10 +6,11 @@ return value<br><br>
 function_name(arguement1, arguement2,.......) ->Function call
 
 ## Built-in Functions
-print()<br>
-len()<br>
-type()<br>
-range()<br>
+- print()<br>
+- len()<br>
+- type()<br>
+- range()<br>
+- math functions: To use math functions we have to import math library first.
 
 ## Default Parameters
 <b>Assigning default value to parameter, which is used when no argument is passed.</b>
