@@ -4,9 +4,12 @@
 3.Loops are used for sequential traversal. For traversing list, string, tuples etc.</b><br><br>
 
 ## while Loops
-<b>while Loops: </b>With while loop we can execute a set of statements as long as a condition is true.<br><br>
+<b>while Loops: </b>With while loop we can execute a set of statements as long as a condition is true. It can also execute it's block of code for unlimited amount of times.<br><br>
 while condition :<br>
 Some work 
+
+## For Loop
+A for loop is used for iterating over a sequence. For loop executes it's block of code for a limited amount of times.
 
 ## Break and Continue
 <b>Break:</b> Break is used to terminate the loop when encountered.<br><br>
