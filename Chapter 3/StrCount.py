@@ -10,3 +10,4 @@ print(B.capitalize()) # the first letter will be capital
 print(B.upper()) # all letters will be in upper case
 print(A.lower()) # all letters will be in lower case
 print(B.replace("t", "p")) # It will replaces t with p
+print(B[0:4]) # This function will display the string character from 0 to 3
