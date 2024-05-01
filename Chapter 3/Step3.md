@@ -41,3 +41,5 @@ str ="I am a coder."<br>
 3. str.replace(old,new) :- It replaces all occurrences of old with new.
 4. str.find(word) :- It return 1st index of 1st occurence.
 5. str.count("am") :- It counts the occurrence of substr in string.
+### Slicing
+you can return a range of characters by using the slice syntax.
