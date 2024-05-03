@@ -48,3 +48,4 @@ null_set =set() :-Empty set syntax.<br>
 4. set.pop():- It removes a random value
 5. set.union(set2):- It combines both set values and returns new.
 6. Set.intersection(set2):- It combines common values in sets and returns new.
+7. set.difference(set2):- It shows the elements of set that don't belong to set2.
