@@ -22,3 +22,4 @@ function_name(arguement1, arguement2,.......) ->Function call
 - The region that a variable is recognized 
 - A variable is only available from inside the region it is created.
 - A global and locally scoped versions of a variable can be crated.
+- The preference of variable is in sequence of Local, Enclosing, Global, Built-in.
