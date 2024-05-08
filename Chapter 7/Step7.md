@@ -23,3 +23,7 @@ function_name(arguement1, arguement2,.......) ->Function call
 - A variable is only available from inside the region it is created.
 - A global and locally scoped versions of a variable can be crated.
 - The preference of variable is in sequence of Local, Enclosing, Global, Built-in.
+
+### *args
+- *args is a parameter that will pack all arguements into a tuple.
+- *args is useful so that a function can accept a varying amount of arguements.
