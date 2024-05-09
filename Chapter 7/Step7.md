@@ -27,3 +27,7 @@ function_name(arguement1, arguement2,.......) ->Function call
 ### *args
 - *args is a parameter that will pack all arguements into a tuple.
 - *args is useful so that a function can accept a varying amount of arguements.
+
+### **kwargs
+- **kwargs are the perameter that will pack all arguements into a dictionary.
+- They are useful so that a function can accept a varying amount of keyword arguments.
